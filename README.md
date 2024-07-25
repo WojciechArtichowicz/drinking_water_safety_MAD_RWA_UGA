@@ -2,7 +2,7 @@
 
 This project was the data analysis and visualization part for paper [Drinking water safety evaluation in the selected sub-Saharan African countries: Case Study of Madagascar, Uganda, and Rwanda](https://doi.org/10.1016/j.scitotenv.2024.174496).
 
-## In case the notebook rendering is not valid, please use [nbviewer](https://nbviewer.org/:)
+## In case the notebook rendering is not valid, please use [nbviewer](https://nbviewer.org/)
  - [chemical_data1.ipynb](https://nbviewer.org/github/WojciechArtichowicz/drinking_water_safety_MAD_RWA_UGA/blob/main/chemical_data1.ipynb)
  - [chemical_data2.ipynb](https://nbviewer.org/github/WojciechArtichowicz/drinking_water_safety_MAD_RWA_UGA/blob/main/chemical_data2.ipynb)
  - [chemical_data3.ipynb](https://nbviewer.org/github/WojciechArtichowicz/drinking_water_safety_MAD_RWA_UGA/blob/main/chemical_data3.ipynb)
